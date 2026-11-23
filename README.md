@@ -2,7 +2,7 @@
 
 黄河交通学院 人工智能学院 · 计算机科学与技术 2025 级本科
 
-**求职方向：AI 应用开发 / 微信小程序开发 实习生**
+**求职方向：AI 应用开发 / 后端开发 / 软件开发 实习生**
 
 📧 a3499205279@outlook.com　📱 15565655331
 
@@ -18,10 +18,10 @@
 
 | 项目 | 说明 | 技术重点 |
 |---|---|---|
+| **[活动公假证明系统](https://github.com/350234-qing/leave-cert-system)** | 学院学生会批量假条生成系统<br>真实在用 | Node.js + TypeScript · 权限隔离、限流、PDF 批量导出 · 含接口测试 |
 | **[错题重生](https://github.com/350234-qing/mistake-reborn)** | AI 错题解析微信小程序<br>拍题 → 解析 → 错因 → 变式 → 复习闭环 | 三模式 AI 引擎、云函数密钥隔离 |
 | **[词云工坊](https://github.com/350234-qing/word-cloud-studio)** | 纯本地词云海报生成小程序 | 自研分词 + 螺旋布局引擎、Canvas 像素渲染 |
 | **[每日情报推送](https://github.com/350234-qing/daily-digest-bot)** | 自动化资讯日报推送服务 | 漏发补投、状态去重、多级降级 |
-| **[公假证明系统](https://github.com/350234-qing/leave-cert-system)** | 学生会批量假条生成系统 | 权限隔离、限流、PDF 批量生成 |
 
 ## 💡 我的三个习惯
 
